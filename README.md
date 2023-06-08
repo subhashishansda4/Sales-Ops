@@ -60,7 +60,8 @@ What AtliQ Technologies need are **Sales Insights** and a **Data Visualization D
 #### Data Modelling
 STAR SCHEMA:\
 fact table - transactions\
-dimensions table - customers, products, markets, date\
+dimensions table - customers, products, markets, date
+
 ![star schema](https://github.com/subhashishansda4/Sales-Ops/blob/main/dash/star%20schema.PNG)
 
 #### Data Cleaning
@@ -74,9 +75,12 @@ dimensions table - customers, products, markets, date\
     `SELECT * FROM sales.products WHERE product_type = "";`
     
 ## Results
-![dash 1](https://github.com/subhashishansda4/Sales-Ops/blob/main/dash/dash%201.png) \
-![dash 2](https://github.com/subhashishansda4/Sales-Ops/blob/main/dash/dash%202.png) \
-![dash 3](https://github.com/subhashishansda4/Sales-Ops/blob/main/dash/dash%203.png) \
+![dash 1](https://github.com/subhashishansda4/Sales-Ops/blob/main/dash/dash%201.png)
+
+![dash 2](https://github.com/subhashishansda4/Sales-Ops/blob/main/dash/dash%202.png)
+
+![dash 3](https://github.com/subhashishansda4/Sales-Ops/blob/main/dash/dash%203.png)
+
 ![dash 4](https://github.com/subhashishansda4/Sales-Ops/blob/main/dash/dash%204.png)
 
 ## Conclusion
