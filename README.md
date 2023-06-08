@@ -33,7 +33,7 @@ What AtliQ Technologies need are **Sales Insights** and a **Data Visualization D
     * Sales Analyst stop data gathering manually in order to save 20% of their business time and reinvest it
 
 #### Pipeline
-![pipeline](https://github.com/subhashishansda4/Sales-Dashboard/blob/main/assets/pipeline.PNG?raw=true)
+![pipeline](https://github.com/subhashishansda4/Sales-Ops/blob/main/dash/pipeline.PNG)
 
 #### Data Analysis
 * Show total number of transactions\
@@ -61,7 +61,7 @@ What AtliQ Technologies need are **Sales Insights** and a **Data Visualization D
 STAR SCHEMA:\
 fact table - transactions\
 dimensions table - customers, products, markets, date\
-![star schema](https://github.com/subhashishansda4/Sales-Dashboard/blob/main/assets/star%20schema.PNG?raw=true)
+![star schema](https://github.com/subhashishansda4/Sales-Dashboard/blob/main/dash/star%20schema.PNG)
 
 #### Data Cleaning
 * markets_name with no zones\
@@ -74,10 +74,10 @@ dimensions table - customers, products, markets, date\
     `SELECT * FROM sales.products WHERE product_type = "";`
     
 ## Results
-![dash 1](https://github.com/subhashishansda4/Sales-Dashboard/blob/main/assets/dash%201.png?raw=true) \
-![dash 2](https://github.com/subhashishansda4/Sales-Dashboard/blob/main/assets/dash%202.png?raw=true) \
-![dash 3](https://github.com/subhashishansda4/Sales-Dashboard/blob/main/assets/dash%203.png?raw=true) \
-![dash 4](https://github.com/subhashishansda4/Sales-Dashboard/blob/main/assets/dash%204.png?raw=true)
+![dash 1](https://github.com/subhashishansda4/Sales-Dashboard/blob/main/dash/dash%201.png?raw=true) \
+![dash 2](https://github.com/subhashishansda4/Sales-Dashboard/blob/main/dash/dash%202.png?raw=true) \
+![dash 3](https://github.com/subhashishansda4/Sales-Dashboard/blob/main/dash/dash%203.png?raw=true) \
+![dash 4](https://github.com/subhashishansda4/Sales-Dashboard/blob/main/dash/dash%204.png?raw=true)
 
 ## Conclusion
 The company will now get a lot of transparency in the business. They will also get lots of insights from the dashboard which will help the management make a business decision.
